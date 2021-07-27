@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://deeprofile.herokuapp.com](https://deeprofile.herokuapp.com)
 
-- ⚡ Fun fact **alien going to invade us**
+- ⚡ Fun fact ** **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
