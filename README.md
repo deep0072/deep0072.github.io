@@ -33,6 +33,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0072&show_icons=true&theme=radical&layout=compact" alt="deep0072" />
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep0072&show_icons=true&theme=radical" alt="deep0072" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep0072&show_icons=true&theme=gotham" alt="deep0072" />
 
 
