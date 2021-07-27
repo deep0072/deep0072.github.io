@@ -34,6 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0072&show_icons=true&locale=en&layout=compact" alt="deep0072" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep0072&show_icons=true&theme=radical  alt="deep0072" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep0072&show_icons=true&theme=dark" alt="deep0072" /></p>
 
 
