@@ -1,11 +1,11 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0072&label=Profile%20views&color=0e75b6&style=flat" alt="deep0072" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep0072" alt="deep0072" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tech_update0" target="blank"><img src="https://img.shields.io/twitter/follow/tech_update0?logo=twitter&style=for-the-badge" alt="tech_update0" /></a> </p>
 
