@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/tech_update0" target="blank"><img src="https://img.shields.io/twitter/follow/tech_update0?logo=twitter&style=for-the-badge" alt="tech_update0" /></a> </p>
 
-- 🌱 I’m currently learning **Django,React,Golang**
+- 🌱 I’m currently learning **Django,React,Golang, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://deeprofile.herokuapp.com](https://deeprofile.herokuapp.com)
 
