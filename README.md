@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deeprofile.herokuapp.com](https://deeprofile.herokuapp.com)
 
-- 💬 Ask me about **python,Django,image Processing**
+- 💬 Ask me about **python,Django,image Processing, blockchain**
 
 - 📫 How to reach me **deepakumar50136@gmail.com,  ping me on  twitter @tech_update0**
 
