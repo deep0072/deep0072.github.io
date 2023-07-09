@@ -11,7 +11,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A Python Developer from India, now learning solidity, building on ethereum blockchain.</h3>
+<h3 align="center">A Python, Solidity Developer from India, now learning solidity, building on ethereum blockchain.</h3>
 <h3 align="center">I will be happy to collaborate on Blockchain Projects.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deep0072&label=Profile%20views&color=0e75b6&style=flat" alt="deep0072" /> </p>
