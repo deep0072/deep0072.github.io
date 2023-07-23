@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **deepakumar50136@gmail.com,  ping me on  twitter @tech_update0**
 
-- 📄 Know about my experiences [https://deeprofile.herokuapp.com](https://deeprofile.herokuapp.com)
-
 - ⚡ Fun fact ** **
 
 <h3 align="center">Connect with me:</h3>
